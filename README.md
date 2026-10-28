@@ -1,8 +1,8 @@
 # Hey, I'm Tristan 👋
 
-Just a marketer building and shipping stuff with AI.
+I'm a marketer building and shipping projects with AI.
 
-I like vibe coding fun little solutions and systems that make everyday stuff easier. Mostly productivity tools, personal apps, or an idea I want to see if I can actually make work.
+I like vibe coding solutions and systems that make everyday stuff easier. Mostly productivity tools, personal apps and ideas I want to try out.
 
 Usually bouncing between Codex and Claude Code, figuring it out as I go and seeing how much I can get done before the daily limits hit.
 
