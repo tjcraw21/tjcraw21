@@ -9,5 +9,5 @@ Usually bouncing between Codex and Claude Code, figuring it out as I go and seei
 ### Some things I've been working on
 
 - **PeakCoach** — a personal app built with AI tools. Private for now.
-- [My portfolio](https://github.com/tjcraw21/portfolio) — a home for my marketing work.
+- [My portfolio](https://www.tristancrawford.com/) — a home for my marketing work. [Source files](https://github.com/tjcraw21/portfolio).
 - [Coaching landing-page experiment](https://github.com/tjcraw21/28dayfltest) — playing with offer copy and an application flow.
